@@ -20,7 +20,8 @@
     "base0C": "#8abeb7",
     "base0D": "#81a2be",
     "base0E": "#b294bb",
-    "base0F": "#a3685a"
+    "base0F": "#a3685a",
+    "tabBackgroundSelected": "#335d7e"
   },
   "ui": {
     "*": {
@@ -108,6 +109,11 @@
       "hoverForeground": "base0D",
       "pressedForeground": "base0D",
       "visitedForeground": "base0D"
+    },
+    "SearchEverywhere": {
+      "Tab": {
+        "selectedBackground": "tabBackgroundSelected"
+      }
     }
   },
   "icons": {
